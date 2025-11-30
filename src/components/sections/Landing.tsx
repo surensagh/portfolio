@@ -65,7 +65,7 @@ const Landing = () => {
               transition={{ duration: 0.8 }}
             >
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 text-gray-800">
-                Hi, I'm <span className="text-primary">[Your Name]</span>
+                Hi, I'm <span className="text-primary">Suren Saghatelyan</span>
               </h1>
               <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-gray-700">
                 Aspiring <span className="text-secondary">AI/ML</span> & <span className="text-secondary">Data Science</span> Enthusiast
